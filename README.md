@@ -19,7 +19,7 @@ So, are you ready to take charge and secure your shared folders in Windows 10? J
 
 <h2>Environments Used </h2>
 
- <b>Windows Server 2016</b> <p>
+ <b>Windows 10</b> <p>
 
 
 <h2>Program walk-through:</h2>
@@ -28,50 +28,39 @@ So, are you ready to take charge and secure your shared folders in Windows 10? J
 
 
 <br />
-Search for Network and Sharing Center.
+First you want to locate the folder where your file is place. 
  <br/>
-<img src="https://i.imgur.com/G0FmySd.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Copy your the IP configuration of your primary ethernet adapter.
+Right click and then give access to followed by " Specific People". Look at the picture below.
  <br/>
-<img src="https://i.imgur.com/HUbLC6P.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/kyF9sq4.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Back in the Server Manager. Click Local Server then under Nic Teaming click the "Disabled" link.
+In the drop down select all the users in your network you want to assign permissions to and then click Add.
 
  <br/>
-<img src="https://i.imgur.com/1n4rirv.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Kc4GuZJ.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Click the Tasks pull down menu and then select "New Team"
+Continue to add all your users. On the right side of the prompt you can select what permission level they have have access to. Click share when finished.
 <br/>
-<img src="https://i.imgur.com/47qEOI9.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Ehau789.pngg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
-Select and configure your adapters and settings. Research what settings works best for your network. I used the name NetTeam for this demonstration but you can name it whatever you want. Click ok when finished and close all boxes.
+That's it! We are finished. As you can see I already have a file placed inside the shared folder. Now I can rest easy knowing only certain people can access this file.
 
  <br/>
-<img src="https://i.imgur.com/bDsCrYP.png" height="80%" width="80%" alt="DHCP"/>
-<br />
-<br />
-Enter the IP configuration of our primary adapter from the first step.
- <br/>
-<img src="https://i.imgur.com/jmQiPHR.png" height="80%" width="80%" alt="DHCP"/>
-<br />
-<br />
-That's it! You're done. Should you check the details of the NicTeam interface it should reflect the primary adapter and we're good to go.
- <br/>
-<img src="https://i.imgur.com/BPI2puP.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/NJYwhHB.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/S5L4DXX.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/jmQiPHR.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
- 
- 
+
  
 </p>
 
