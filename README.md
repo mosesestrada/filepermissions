@@ -28,7 +28,7 @@ So, are you ready to take charge and secure your shared folders in Windows 10? J
 
 
 <br />
-First you want to locate the folder where your file is place. 
+First you want to locate the folder where your file is placed. 
  <br/>
 <img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="DHCP"/>
 <br />
