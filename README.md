@@ -35,7 +35,7 @@ First you want to locate the folder where your file is placed.
 <br />
 Right click and then give access to followed by " Specific People". Look at the picture below.
  <br/>
-<img src="https://i.imgur.com/kyF9sq4.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Yj3ZJNf.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 In the drop down select all the users in your network you want to assign permissions to and then click Add.
