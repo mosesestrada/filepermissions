@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/8gJWSER.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/q8lM5br.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Assign File Permissions</h1>
@@ -57,7 +57,7 @@ That's it! We are finished. As you can see I already have a file placed inside t
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/Hog4cU7.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/HiDJVW4.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 
