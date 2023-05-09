@@ -30,34 +30,34 @@ So, are you ready to take charge and secure your shared folders in Windows 10? J
 <br />
 First you want to locate the folder where your file is placed. 
  <br/>
-<img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 Right click and then give access to followed by " Specific People". Look at the picture below.
  <br/>
-<img src="https://i.imgur.com/Yj3ZJNf.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Yj3ZJNf.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 In the drop down select all the users in your network you want to assign permissions to and then click Add.
 
  <br/>
-<img src="https://i.imgur.com/Kc4GuZJ.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Kc4GuZJ.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 Continue to add all your users. On the right side of the prompt you can select what permission level they have have access to. Click share when finished.
 <br/>
-<img src="https://i.imgur.com/Ehau789.pngg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/Ehau789.pngg" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 That's it! We are finished. As you can see I already have a file placed inside the shared folder. Now I can rest easy knowing only certain people can access this file.
 
  <br/>
-<img src="https://i.imgur.com/NJYwhHB.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/NJYwhHB.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/HiDJVW4.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/ADekI8j.jpg" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 
