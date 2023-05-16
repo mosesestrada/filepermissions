@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/daSkGiT.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/44C6zDU.jpg" height="80%" width="80%" alt="permissions logo"/>
 </p>
 
 <h1>Assign File Permissions</h1>
@@ -30,29 +30,29 @@ So, are you ready to take charge and secure your shared folders in Windows 10? J
 <br />
 First you want to locate the folder where your file is placed. 
  <br/>
-<img src="https://i.imgur.com/pQOfdI6.png" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/LBx25Xa.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 Right click and then give access to followed by " Specific People". Look at the picture below.
  <br/>
-<img src="https://i.imgur.com/Yj3ZJNf.png" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/NeijiEX.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 In the drop down select all the users in your network you want to assign permissions to and then click Add.
 
  <br/>
-<img src="https://i.imgur.com/Kc4GuZJ.png" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/aU199HA.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 Continue to add all your users. On the right side of the prompt you can select what permission level they have have access to. Click share when finished.
 <br/>
-<img src="https://i.imgur.com/Ehau789.pngg" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/yk6vEs7.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 That's it! We are finished. As you can see I already have a file placed inside the shared folder. Now I can rest easy knowing only certain people can access this file.
 
  <br/>
-<img src="https://i.imgur.com/NJYwhHB.png" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/fM08dOe.png" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
