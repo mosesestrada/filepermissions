@@ -57,7 +57,7 @@ That's it! We are finished. As you can see I already have a file placed inside t
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/bl1mpMv.jpg" height="80%" width="80%" alt="permissions"/>
+<img src="https://i.imgur.com/ePGPNRg.jpg" height="80%" width="80%" alt="permissions"/>
 <br />
 <br />
 
